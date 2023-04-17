@@ -1,0 +1,5 @@
+.highlight {
+  position: relative;
+  user-select: none;
+  cursor: pointer;
+}
